@@ -19,13 +19,12 @@ I'm a passionate **MERN Stack Developer** with hands-on experience in building d
 ### Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/th-mim10/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(1);">
-</a>
-<a href="https://github.com/thmim">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="filter: invert(1);">
-</a>
-
+  <a href="https://www.linkedin.com/in/th-mim10/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/thmim">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ### Currently...
