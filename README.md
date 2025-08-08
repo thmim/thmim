@@ -16,6 +16,18 @@ I'm a passionate **MERN Stack Developer** with hands-on experience in building d
 
 ---
 
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/th-mim10/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://github.com/thmim">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+  </a>
+  
+</p>
+
 ### Currently...
 
 - 🔭 I’m working on a **Hotel Booking Website**.
