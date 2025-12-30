@@ -40,8 +40,5 @@ I'm a passionate **MERN Stack Developer** with hands-on experience in building d
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thmim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thmim)](https://github.com/denver-code/github-streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thmim)](https://git.io/streak-stats)
 ---
