@@ -33,12 +33,14 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thmim&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thmim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thmim&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thmim&theme=react&border_radius=10" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&layout=compact&theme=react&border_radius=10&hide=html,css" alt="Top Languages" />
 </div>
 
 
