@@ -29,7 +29,7 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,vercel,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,vercel,netlify,firebase" /><br>
 </div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
