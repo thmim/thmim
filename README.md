@@ -34,13 +34,13 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thmim&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thmim&show_icons=true&theme=react&border_radius=10&count_private=true" alt="GitHub Stats" />
   
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thmim&theme=react&border_radius=10" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&layout=compact&theme=react&border_radius=10&hide=html,css" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&layout=compact&theme=react&border_radius=10&hide=html,css&count_private=true" alt="Top Languages" />
 </div>
 
 
