@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taharim+Hasan+Mim!;" />
 </h1>
@@ -31,16 +32,16 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
 </div>
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thmim&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thmim&show_icons=true&theme=react&border_radius=10&count_private=true" alt="GitHub Stats" />
   
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thmim&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=thmim&theme=react&border_radius=10" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmim&layout=compact&theme=react&border_radius=10&hide=html,css" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thmim&layout=compact&theme=react&border_radius=10&hide=html,css&count_private=true" alt="Top Languages" />
 </div>
 
 
