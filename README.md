@@ -1,4 +1,4 @@
-![logo](https://github.com/thmim/thmim/blob/main/linkedin-github-bannar.png)
+e![logo](https://github.com/thmim/thmim/blob/main/linkedin-github-bannar.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taharim+Hasan+Mim!+;+MERN+Stack+Developer!;" />
@@ -29,7 +29,7 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,vercel,netlify" /><br>
 </div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
