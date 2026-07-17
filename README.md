@@ -1,15 +1,15 @@
 ![logo](https://github.com/thmim/thmim/blob/main/linkedin-github-bannar.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taharim+Hasan+Mim!+;+MERN+Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taharim+Hasan+Mim!+;+A+Full+Stack+Developer!;+MERN+Stack+Developer!;+Frontend+Developer!;+Backend+Developer!" />
 </h1>
 
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <h3 align="left">👋 About Me</h3>
 <div align="left">
  
-I’m a MERN Stack Developer who enjoys turning ideas into scalable, real-world web applications. I focus on writing maintainable code and building features that actually solve problems — not just demos.
-I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I’m comfortable working across the full stack — from designing REST APIs and middleware to building responsive, user-friendly interfaces.
+I’m a Full Stack Developer who enjoys turning ideas into scalable, real-world web applications. I focus on writing maintainable code and building features that actually solve problems — not just demos.
+I have hands-on experience with JavaScript, TypeScript, React, NextJS, SQL, NoSQL, Node.js, and Express.js, and I’m comfortable working across the full stack — from designing REST APIs and middleware to building responsive, user-friendly interfaces.
 
  </div>
  <div align="center"> 
@@ -25,12 +25,23 @@ I have hands-on experience with MongoDB, Express.js, React, and Node.js, and I�
 </div>
 
  <hr/>
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,vercel,netlify,firebase" /><br>
-</div>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" />
+</p>
+
+<h3 align="center">Tools & Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,firebase,vercel,netlify" />
+</p>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
